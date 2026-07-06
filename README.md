@@ -1,5 +1,5 @@
 # -DeepSeek-RagFlow-Docker-
-复现基于DeepSeek大模型的个人数据库搭建，其中采用工具有RagFlow、Docker、Ollama）
+复现基于DeepSeek大模型的个人数据库搭建，基础来自于https://github.com/infiniflow/ragflow?tab=Apache-2.0-1-ov-file。本项目采用工具有RagFlow、Docker、Ollama）
 本篇是自己复现个人数据库搭建后，对于一些流程及问题的记录。
 一、Ollama下载
 1.下载
